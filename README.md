@@ -31,7 +31,7 @@ Listas de reproducción mensuales con discos en rotación de cada periodo. Músi
 
 | Tipo | Enlace |
 | --- | --- |
-| Colección (cds, cassettes, formatos raros) | [matilov | Colección](https://www.discogs.com/es/user/matilov/collection) |
+| Colección (cds, cassettes, formatos raros) | [matilov - Colección](https://www.discogs.com/es/user/matilov/collection) |
 | Lista de deseos | [Discogs Wantlist](https://www.discogs.com/wantlist?user=matilov) |
 
 ## 📣 Donde encontrar música nueva
