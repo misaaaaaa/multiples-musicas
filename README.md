@@ -1,5 +1,7 @@
 # Múltiples músicas x misaa.cc
 
+![pantallazo con portadas de álbumes de mi colección](./screenshot.png)
+
 Este pequeño archivo es una documentación de parte de las diversas músicas y sonidos a los que tengo acceso. En mi adolescencia, antes de la omnipresencia de las plataformas de streaming, mi colección musical consistía en música descubierta principalmente a través de last.fm, en discos descargados de blogs y sistemas p2p, estructurados en carpetas por artista, álbum y canción. Con los años, uno de los discos duros donde almacenaba música se dañó, y mis hábitos se fueron mezclando con lo que iba ofreciendo de manera incesante el algoritmo. Eso me hizo perder la relación que guardaba con los discos que descargaba, etiquetaba y escuchaba cada día, lo que no solo ayudaba a escuchar sonidos nuevos, sino que producía relaciones afectivas con los álbumes. Después de un tiempo, era capaz de seguir recordando donde había encontrado el álbum, como me sentía la primera vez que lo oí, o con quienes estaba dialogando. Ahora, busco reconstruir esa actitud activa, por medio de servicios de streaming, además de la colección de físicos que amplío mes a mes.
 
 ## 📅 Playlists música descubierta 2026
