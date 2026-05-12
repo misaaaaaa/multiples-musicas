@@ -8,13 +8,13 @@ Este pequeño archivo es una documentación de parte de las diversas músicas y 
 
 Listas de reproducción mensuales con discos en rotación de cada periodo. Música de todas las épocas y géneros.
 
-| Mes | Enlace |
-| --- | --- |
-| Mayo | [2026-05](https://music.youtube.com/playlist?list=PLYuJsrss8DN-zlTZhOBbahbFt0iQVdz_k&si=4eBtVbLzUghq4Hfi) |
-| Abril | [2026-04](https://music.youtube.com/playlist?list=PLYuJsrss8DN8dI53TsCLO2kr7j0qG6cDD&si=5cYTljNNYdiQo8aG) |
-| Marzo | [2026-03](https://music.youtube.com/playlist?list=PLYuJsrss8DN_k1YXDMFmPMJiMojiOZjAY&si=_E4Q4UKJ5QZEmlj5) |
-| Febrero | [2026-02](https://music.youtube.com/playlist?list=PLYuJsrss8DN_1g7HNw3F4aNSVR7LoNuNY&si=UDHtWfMM0lrduX0_) |
-| Enero | [2026-01](https://music.youtube.com/playlist?list=PLYuJsrss8DN8Jauq9DOP6PRsozP1cHBWi&si=DLhcSwXwbiktk9dA) |
+| Mes | Playlist Youtube | Tabla |
+| --- | --- | --- |
+| Mayo | [2026-05](https://music.youtube.com/playlist?list=PLYuJsrss8DN-zlTZhOBbahbFt0iQVdz_k&si=4eBtVbLzUghq4Hfi) | |
+| Abril | [2026-04](https://music.youtube.com/playlist?list=PLYuJsrss8DN8dI53TsCLO2kr7j0qG6cDD&si=5cYTljNNYdiQo8aG) | [2026-04.md](2026/2026-04.md) |
+| Marzo | [2026-03](https://music.youtube.com/playlist?list=PLYuJsrss8DN_k1YXDMFmPMJiMojiOZjAY&si=_E4Q4UKJ5QZEmlj5) | [2026-03.md](2026/2026-03.md) |
+| Febrero | [2026-02](https://music.youtube.com/playlist?list=PLYuJsrss8DN_1g7HNw3F4aNSVR7LoNuNY&si=UDHtWfMM0lrduX0_) | [2026-02.md](2026/2026-02.md) |
+| Enero | [2026-01](https://music.youtube.com/playlist?list=PLYuJsrss8DN8Jauq9DOP6PRsozP1cHBWi&si=DLhcSwXwbiktk9dA) | [2026-01.md](2026/2026-01.md) |
 
 ## 🎚️ Otras playlists
 
