@@ -46,6 +46,7 @@ Listas de reproducción mensuales con discos en rotación de cada periodo. Músi
 | Instagram | Comenta discos recientes | [Nick Fry (@nicksmusictaste) • Instagram profile](https://www.instagram.com/nicksmusictaste/) |
 | Instagram |   Principalmente música japonesa  | [Teshisfinehour](https://www.instagram.com/teshisfinehour/)|
 | Instagram | Todo tipo de jazz | [the.jazz.corner](https://www.instagram.com/the.jazz.corner/)|
+| Blog | Música experimental, ambient | [The Attic Magazine](https://theatticmag.com)|
 
 ### 📼 Labels
 
