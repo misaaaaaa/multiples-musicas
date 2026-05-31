@@ -36,7 +36,7 @@ node scrape-playlist.js
 ## Limitaciones y correcciones manuales aplicadas
 
 - **Año de lanzamiento**: MusicBrainz devuelve `s/a` cuando el query no encuentra coincidencia exacta. Los casos más comunes son compilaciones (p.ej. la serie *Artificial Intelligence* de Warp, 1992) y artistas con nombres poco comunes.
-- **Compilaciones multi-artista**: cada artista aparece como fila separada con el mismo álbum. Se corrige manualmente agrupando si es necesario.
+- **Compilaciones multi-artista**: cuando varios tracks de una misma compilación aparecen en la playlist, el scraper los lista como filas separadas (una por artista). Se consolidan manualmente en una sola fila con `Various` como artista y el nombre de la compilación como álbum (p.ej. *Artificial Intelligence*, Warp, 1992 → `| Various | Artificial Intelligence | 1992 |`).
 - **Entradas sin álbum**: nombres de canales de YouTube sin metadatos de álbum; se eliminan de la tabla final.
 - **Typos del scraper**: YouTube Music a veces devuelve nombres con errores (p.ej. `Bibiotheca` → `Bibliotheca`); se corrigen en la revisión final.
 - **Aniversarios**: el año se normaliza al lanzamiento original, no a la reedición (p.ej. *Mic City Sons 30th Anniversary* → 1994).
