@@ -4,7 +4,31 @@ const PLAYLISTS = [
   { url: 'https://music.youtube.com/playlist?list=PLYuJsrss8DN_1g7HNw3F4aNSVR7LoNuNY', name: '2026-02' },
   { url: 'https://music.youtube.com/playlist?list=PLYuJsrss8DN_k1YXDMFmPMJiMojiOZjAY', name: '2026-03' },
   { url: 'https://music.youtube.com/playlist?list=PLYuJsrss8DN8dI53TsCLO2kr7j0qG6cDD', name: '2026-04' },
+  { url: 'https://music.youtube.com/playlist?list=PLYuJsrss8DN-zlTZhOBbahbFt0iQVdz_k', name: '2026-05' },
 ];
+
+// MusicBrainz year lookup (rate-limited to 1 req/s as per API guidelines)
+async function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+async function fetchYear(artist, album) {
+  try {
+    const q = encodeURIComponent(`releasegroup:"${album}" AND artist:"${artist}"`);
+    const url = `https://musicbrainz.org/ws/2/release-group?query=${q}&limit=1&fmt=json`;
+    const res = await fetch(url, {
+      headers: { 'User-Agent': 'multiples-musicas/1.0 (https://github.com/misaaaaaa/multiples-musicas)' }
+    });
+    if (!res.ok) return 's/a';
+    const data = await res.json();
+    const rg = data['release-groups']?.[0];
+    if (!rg) return 's/a';
+    const year = rg['first-release-date']?.slice(0, 4);
+    return year || 's/a';
+  } catch {
+    return 's/a';
+  }
+}
 
 async function scrapePlaylist(page, url) {
   await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
@@ -98,10 +122,18 @@ async function scrapePlaylist(page, url) {
     unique.sort((a, b) => a.artist.localeCompare(b.artist, 'es'));
 
     console.log(`\nUnique artist-album pairs: ${unique.length}`);
-    console.log('\n| Artista | Álbum | Año |');
-    console.log('|---|---|---|');
+    console.log('Fetching years from MusicBrainz...');
+
+    // Fetch years with rate limiting
     for (const t of unique) {
-      console.log(`| ${t.artist} | ${t.album || 'desconocido'} | s/a |`);
+      t.year = await fetchYear(t.artist, t.album);
+      await sleep(1100); // respect MusicBrainz 1 req/s limit
+    }
+
+    console.log('\n| Artista | Álbum | Año |');
+    console.log('| --- | --- | --- |');
+    for (const t of unique) {
+      console.log(`| ${t.artist} | ${t.album || 'desconocido'} | ${t.year} |`);
     }
   }
 
