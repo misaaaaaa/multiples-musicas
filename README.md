@@ -52,17 +52,25 @@ Listas de reproducción mensuales con discos en rotación de cada periodo. Músi
 
 | Sello | Ubicación | Año | Estilos | Enlace |
 |-------|-----------|------|---------|--------|
-| **Pueblo Nuevo** | Santiago, Chile | 2005 | Electrónica, experimental, ambient, noise, electroacústica | https://pueblonuevo.cl/ |
-| **Grieta Label** | Santiago, Chile | — | Música + literatura, experimental | https://grietalabel.myshopify.com/ |
-| **Archivo Veintidós** | Santiago, Chile | — | Experimental, dark ambient, arte sonoro, paisajismo sonoro | http://archivoveintidos.org/ |
-| **Buh Records** | Lima, Perú | — | Experimental, noise, avant-garde, folk experimental | https://buhrecords.bandcamp.com/ |
-| **Sub Rosa Label** | Bruselas, Bélgica | 1989 | Drone, noise, concrète, electrónica, experimental, ritual | https://subrosalabel.bandcamp.com/ |
-| **Constellation Records** | Montreal, Canadá | 1997 | Experimental, post-rock, ambient, experimental de género mixto | https://constellation.bandcamp.com/ |
-| **Medio Oriente** | Santiago, Chile | 2016 | Electrónica experimental, club experimental | https://mediooriente.bandcamp.com/ |
-| **Akuphone** | Francia | 2015 | World music, folk, música ritual, música experimental | https://akuphone.bandcamp.com/ |
-| **DiN Records** | UK | 1999 | Ambient, electrónica, síntesis analógica, Berlin School | https://dinrecords.bandcamp.com/ |
-| **Serein Label** | Gales, UK | 2005 | Ambient, experimental, dark ambient | https://sereinlabel.bandcamp.com/ |
-| **Inner Islands** | Seattle, Washington | 2010 | Ambient, devocional, experimental minimalista | https://innerislands.bandcamp.com/ |
+| **Pueblo Nuevo** | Santiago, Chile | 2005 | Electrónica, experimental, ambient, noise, electroacústica | <https://pueblonuevo.cl/> |
+| **Grieta Label** | Santiago, Chile | — | Música + literatura, experimental | <https://grietalabel.myshopify.com/> |
+| **Archivo Veintidós** | Santiago, Chile | — | Experimental, dark ambient, arte sonoro, paisajismo sonoro | <http://archivoveintidos.org/> |
+| **Buh Records** | Lima, Perú | — | Experimental, noise, avant-garde, folk experimental | <https://buhrecords.bandcamp.com/> |
+| **Sub Rosa Label** | Bruselas, Bélgica | 1989 | Drone, noise, concrète, electrónica, experimental, ritual | <https://subrosalabel.bandcamp.com/> |
+| **Constellation Records** | Montreal, Canadá | 1997 | Experimental, post-rock, ambient, experimental de género mixto | <https://constellation.bandcamp.com/> |
+| **Medio Oriente** | Santiago, Chile | 2016 | Electrónica experimental, club experimental | <https://mediooriente.bandcamp.com/> |
+| **Akuphone** | Francia | 2015 | World music, folk, música ritual, música experimental | <https://akuphone.bandcamp.com/> |
+| **DiN Records** | UK | 1999 | Ambient, electrónica, síntesis analógica, Berlin School | <https://dinrecords.bandcamp.com/> |
+| **Serein Label** | Gales, UK | 2005 | Ambient, experimental, dark ambient | <https://sereinlabel.bandcamp.com/> |
+| **Inner Islands** | Seattle, Washington | 2010 | Ambient, devocional, experimental minimalista | <https://innerislands.bandcamp.com/> |
+
+### 💽 Álbumes publicados bajo "misaa"
+
+| Año | Álbum | Sello | Enlace |
+|---  | ---   | ---   | ---    |  
+| 2019 | minor planets | Archivo Veintidós | <http://archivoveintidos.org/catalogo/a22002.html> |
+| 2020 | minoritario | Pueblo Nuevo | <https://pueblonuevo.cl/catalogo/minoritario/>| 
+| 2021 | tres reconstituciones y un documental sonoro | Sello Medio Oriente | <https://mediooriente.bandcamp.com/album/tres-reconstituciones-y-un-documental-sonoro> |
 
 ---
 
