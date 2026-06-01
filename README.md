@@ -10,7 +10,7 @@ Listas de reproducción mensuales con discos en rotación de cada periodo. Músi
 
 | Mes | Playlist Youtube | Tabla |
 | --- | --- | --- |
-| Julio | [2026-06](https://music.youtube.com/playlist?list=PLYuJsrss8DN9dDFUriIUbCQdR_cu7cLVJ)) | --- |
+| Julio | [2026-06](https://music.youtube.com/playlist?list=PLYuJsrss8DN9dDFUriIUbCQdR_cu7cLVJ) | --- |
 | Mayo | [2026-05](https://music.youtube.com/playlist?list=PLYuJsrss8DN-zlTZhOBbahbFt0iQVdz_k&si=4eBtVbLzUghq4Hfi) | [2026-05.md](2026/2026-05.md) |
 | Abril | [2026-04](https://music.youtube.com/playlist?list=PLYuJsrss8DN8dI53TsCLO2kr7j0qG6cDD&si=5cYTljNNYdiQo8aG) | [2026-04.md](2026/2026-04.md) |
 | Marzo | [2026-03](https://music.youtube.com/playlist?list=PLYuJsrss8DN_k1YXDMFmPMJiMojiOZjAY&si=_E4Q4UKJ5QZEmlj5) | [2026-03.md](2026/2026-03.md) |
@@ -54,9 +54,9 @@ Listas de reproducción mensuales con discos en rotación de cada periodo. Músi
 | Sello | Ubicación | Año | Estilos | Enlace |
 |-------|-----------|------|---------|--------|
 | **Pueblo Nuevo** | Santiago, Chile | 2005 | Electrónica, experimental, ambient, noise, electroacústica | <https://pueblonuevo.cl/> |
-| **Grieta Label** | Santiago, Chile | — | Música + literatura, experimental | <https://grietalabel.myshopify.com/> |
-| **Archivo Veintidós** | Santiago, Chile | — | Experimental, dark ambient, arte sonoro, paisajismo sonoro | <http://archivoveintidos.org/> |
-| **Buh Records** | Lima, Perú | — | Experimental, noise, avant-garde, folk experimental | <https://buhrecords.bandcamp.com/> |
+| **Grieta Label** | Santiago, Chile | 2024 | Música + literatura, experimental | <https://grietalabel.myshopify.com/> |
+| **Archivo Veintidós** | Santiago, Chile | 2019 | Experimental, dark ambient, arte sonoro, paisajismo sonoro | <http://archivoveintidos.org/> |
+| **Buh Records** | Lima, Perú | 2004 | Experimental, noise, avant-garde, folk experimental | <https://buhrecords.bandcamp.com/> |
 | **Sub Rosa Label** | Bruselas, Bélgica | 1989 | Drone, noise, concrète, electrónica, experimental, ritual | <https://subrosalabel.bandcamp.com/> |
 | **Constellation Records** | Montreal, Canadá | 1997 | Experimental, post-rock, ambient, experimental de género mixto | <https://constellation.bandcamp.com/> |
 | **Medio Oriente** | Santiago, Chile | 2016 | Electrónica experimental, club experimental | <https://mediooriente.bandcamp.com/> |
