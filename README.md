@@ -48,6 +48,7 @@ Listas de reproducción mensuales con discos en rotación de cada periodo. Músi
 | Instagram |   Principalmente música japonesa  | [Teshisfinehour](https://www.instagram.com/teshisfinehour/)|
 | Instagram | Todo tipo de jazz | [the.jazz.corner](https://www.instagram.com/the.jazz.corner/)|
 | Blog | Música experimental, ambient | [The Attic Magazine](https://theatticmag.com)|
+| Tienda | Tienda online de música experimental | [SoundOhm](https://www.soundohm.com/) |
 
 ### 📼 Labels
 
