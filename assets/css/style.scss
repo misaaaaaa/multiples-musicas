@@ -1,0 +1,268 @@
+---
+---
+
+:root {
+  --bg:           #0f0f0f;
+  --bg-alt:       #161616;
+  --bg-hover:     #1c1c1c;
+  --text:         #cccccc;
+  --text-dim:     #999999;
+  --text-faint:   #555555;
+  --accent:       #b83232;
+  --border:       #242424;
+  --link:         #7aafc0;
+  --link-hover:   #9dcfe0;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 15px;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: Georgia, 'Times New Roman', serif;
+  line-height: 1.75;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+
+/* ─── Layout ─────────────────────────────── */
+
+.nav-container,
+.footer-container {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+main {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 5rem;
+  flex: 1;
+  width: 100%;
+}
+
+/* ─── Header ─────────────────────────────── */
+
+header {
+  border-bottom: 1px solid var(--border);
+  padding: 1.1rem 0;
+}
+
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.site-title {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.site-title:hover {
+  color: var(--accent);
+  text-decoration: none;
+  opacity: 0.65;
+}
+
+.nav-links {
+  display: flex;
+  gap: 1.75rem;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-size: 0.76rem;
+  letter-spacing: 0.04em;
+}
+
+.nav-links a {
+  color: var(--text-faint);
+}
+
+.nav-links a:hover {
+  color: var(--text-dim);
+  text-decoration: none;
+}
+
+/* ─── Typography ──────────────────────────── */
+
+h1 {
+  font-size: 1.4rem;
+  font-weight: normal;
+  line-height: 1.35;
+  margin-bottom: 1.5rem;
+  color: var(--text);
+  letter-spacing: -0.01em;
+}
+
+h2 {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-size: 0.66rem;
+  font-weight: 600;
+  color: var(--accent);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid var(--border);
+}
+
+h3 {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-size: 0.7rem;
+  font-weight: 500;
+  color: var(--text-dim);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+p {
+  font-size: 0.93rem;
+  color: #aaaaaa;
+  max-width: 660px;
+  margin-bottom: 1rem;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2.5rem 0;
+}
+
+/* ─── Images ──────────────────────────────── */
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 2rem;
+  opacity: 0.88;
+}
+
+/* ─── Tables ──────────────────────────────── */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-size: 0.845rem;
+}
+
+thead {
+  background-color: var(--bg-alt);
+}
+
+thead th {
+  color: var(--text-faint);
+  font-weight: 500;
+  font-size: 0.63rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  padding: 0.65rem 0.9rem;
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+}
+
+tbody tr {
+  border-bottom: 1px solid var(--border);
+  transition: background-color 0.1s ease;
+}
+
+tbody tr:hover {
+  background-color: var(--bg-hover);
+}
+
+tbody td {
+  padding: 0.6rem 0.9rem;
+  color: var(--text);
+  vertical-align: middle;
+}
+
+tbody td:first-child {
+  color: var(--text-faint);
+  font-size: 0.76rem;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+/* ─── Footer ──────────────────────────────── */
+
+footer {
+  border-top: 1px solid var(--border);
+  padding: 1.1rem 0;
+  text-align: center;
+}
+
+.footer-container {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  color: var(--text-faint);
+}
+
+.footer-container a {
+  color: var(--text-faint);
+}
+
+.footer-container a:hover {
+  color: var(--text-dim);
+  text-decoration: none;
+}
+
+/* ─── Responsive ──────────────────────────── */
+
+@media (max-width: 600px) {
+  html {
+    font-size: 14px;
+  }
+
+  .nav-container {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+
+  main {
+    padding: 2rem 1rem 3.5rem;
+  }
+
+  table {
+    font-size: 0.8rem;
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  tbody td,
+  thead th {
+    padding: 0.5rem 0.65rem;
+  }
+}

@@ -1,0 +1,27 @@
+title: múltiples músicas
+description: Archivo musical de misaa.cc
+baseurl: "/multiples-musicas"
+url: "https://misaaaaaa.github.io"
+lang: es
+author: misaa
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+plugins:
+  - jekyll-relative-links
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - scrape-playlist.js
+  - conversion-playlist-csv-md.md
