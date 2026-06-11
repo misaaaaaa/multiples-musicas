@@ -34,13 +34,14 @@ Listas de reproducción mensuales con discos en rotación de cada periodo. Músi
 | Covers | [Covvvers](https://music.youtube.com/playlist?list=PLYuJsrss8DN95k30V0zyX3aOfkXKK4LY9&si=O7hwWXaPfuLeJ4Ml) |
 | Antigua lista de discos pendientes por escuchar | [pendientes](https://music.youtube.com/playlist?list=PLYuJsrss8DN9PpedQWUCVgn7kh26Hxarc&si=rD3gFnqNMvXlm9da) |
 | Música japonesa | [.jpn 🇯🇵](https://music.youtube.com/playlist?list=PLYuJsrss8DN9LdaAjBLvjKLjWm3ZzyKz6&si=KWE8HQXguSofyVYd) |
+| 1000 canciones que Escuchar Antes de Morir (en construcción) / Creada por mi padre (Spotify) | [1000 canciones (spotify)](https://open.spotify.com/playlist/2TxtRFjLSo5u1rzVVo4CfY?si=4079c724d9e347f8) |
 
 ## 📀 colección física
 
 | Tipo | Enlace |
 | --- | --- |
-| Colección (cds, cassettes, formatos raros) | [matilov - Colección](https://www.discogs.com/es/user/matilov/collection) |
-| Lista de deseos | [Discogs Wantlist](https://www.discogs.com/wantlist?user=matilov) |
+| Colección (cds, cassettes, formatos raros) | [matilov - Discogs](https://www.discogs.com/es/user/matilov/collection) |
+| Lista de deseos | [Wantlist - Discogs](https://www.discogs.com/wantlist?user=matilov) |
 
 ## 📣 donde encontrar música nueva
 
