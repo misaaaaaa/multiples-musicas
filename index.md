@@ -3,13 +3,13 @@ layout: default
 title: Múltiples músicas x misaa.cc
 ---
 
-# Múltiples músicas x misaa.cc
+# múltiples músicas x misaa.cc
 
 ![pantallazo con portadas de álbumes de mi colección](./screenshot.png)
 
-Este pequeño archivo es una documentación de parte de las diversas músicas y sonidos a los que tengo acceso. En mi adolescencia, antes de la omnipresencia de las plataformas de streaming, mi colección musical consistía en música descubierta principalmente a través de last.fm, en discos descargados de blogs y sistemas p2p, estructurados en carpetas por artista, álbum y canción. Con los años, uno de los discos duros donde almacenaba música se dañó, y mis hábitos se fueron mezclando con lo que iba ofreciendo de manera incesante el algoritmo. Eso me hizo perder la relación que guardaba con los discos que descargaba, etiquetaba y escuchaba cada día, lo que no solo ayudaba a escuchar sonidos nuevos, sino que producía relaciones afectivas con los álbumes. Después de un tiempo, era capaz de seguir recordando donde había encontrado el álbum, como me sentía la primera vez que lo oí, o con quienes estaba dialogando. Ahora, busco reconstruir esa actitud activa, por medio de servicios de streaming, además de la colección de físicos que amplío mes a mes.
+Este pequeño archivo es una documentación de parte de las diversas músicas y sonidos a los que tengo acceso. En mi adolescencia, antes de la omnipresencia de las plataformas de streaming, mi colección musical consistía en música descubierta principalmente a través de last.fm, recomendados por amigues, o en descargas de blogs y sistemas p2p. Estos los estructuraba en carpetas por artista, álbum y canción. Con los años, uno de los discos duros donde almacenaba música se dañó, perdiendo la oportunidad de volver a la música que ya no recordaba, y mis hábitos se fueron mezclando con lo que iba ofreciendo de manera incesante el algoritmo. Eso me hizo perder la relación que guardaba con los discos que descargaba, etiquetaba y escuchaba cada día, primer gesto desde el cual producía relaciones afectivas con los álbumes. Incluso años después, era capaz de seguir recordando donde había encontrado el álbum, como me sentía la primera vez que lo oí, o con quienes estaba dialogando. Ahora, busco reconstruir esa actitud activa con la música que oigo, por medio de un uso más consciente de las playlist de los servicios de streaming, la que se suma a una pequeña colección de música física que intento ampliar constantemente.
 
-## 📅 Playlists música descubierta 2026
+## 📅 playlists música descubierta 2026
 
 Listas de reproducción mensuales con discos en rotación de cada periodo. Música de todas las épocas y géneros.
 
@@ -22,7 +22,7 @@ Listas de reproducción mensuales con discos en rotación de cada periodo. Músi
 | Febrero | [2026-02](https://music.youtube.com/playlist?list=PLYuJsrss8DN_1g7HNw3F4aNSVR7LoNuNY&si=UDHtWfMM0lrduX0_) | [2026-02.md](2026/2026-02.md) |
 | Enero | [2026-01](https://music.youtube.com/playlist?list=PLYuJsrss8DN8Jauq9DOP6PRsozP1cHBWi&si=DLhcSwXwbiktk9dA) | [2026-01.md](2026/2026-01.md) |
 
-## 🎚️ Otras playlists
+## 🎚️ otras playlists
 
 | Título | Enlace |
 | --- | --- |
@@ -35,14 +35,14 @@ Listas de reproducción mensuales con discos en rotación de cada periodo. Músi
 | Antigua lista de discos pendientes por escuchar | [pendientes](https://music.youtube.com/playlist?list=PLYuJsrss8DN9PpedQWUCVgn7kh26Hxarc&si=rD3gFnqNMvXlm9da) |
 | Música japonesa | [.jpn 🇯🇵](https://music.youtube.com/playlist?list=PLYuJsrss8DN9LdaAjBLvjKLjWm3ZzyKz6&si=KWE8HQXguSofyVYd) |
 
-## 📀 Colección física
+## 📀 colección física
 
 | Tipo | Enlace |
 | --- | --- |
 | Colección (cds, cassettes, formatos raros) | [matilov - Colección](https://www.discogs.com/es/user/matilov/collection) |
 | Lista de deseos | [Discogs Wantlist](https://www.discogs.com/wantlist?user=matilov) |
 
-## 📣 Donde encontrar música nueva
+## 📣 donde encontrar música nueva
 
 | Tipo | Descripción | Enlace |
 | --- | --- | --- |
@@ -56,7 +56,7 @@ Listas de reproducción mensuales con discos en rotación de cada periodo. Músi
 | Tienda | Tienda online de música experimental | [SoundOhm](https://www.soundohm.com/) |
 | Radio | Radio online de música experimental | [dfm.nu](https://dfm.nu/) |
 
-### 📼 Labels
+### 📼 labels
 
 | Sello | Ubicación | Año | Estilos | Enlace |
 |-------|-----------|------|---------|--------|
@@ -72,7 +72,7 @@ Listas de reproducción mensuales con discos en rotación de cada periodo. Músi
 | **Serein Label** | Gales, UK | 2005 | Ambient, experimental, dark ambient | <https://sereinlabel.bandcamp.com/> |
 | **Inner Islands** | Seattle, Washington | 2010 | Ambient, devocional, experimental minimalista | <https://innerislands.bandcamp.com/> |
 
-### 💽 Álbumes publicados bajo "misaa"
+### 💽 álbumes publicados bajo "misaa"
 
 | Año | Álbum | Sello | Enlace |
 |---  | ---   | ---   | ---    |

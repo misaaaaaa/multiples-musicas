@@ -2,16 +2,16 @@
 ---
 
 :root {
-  --bg:           #0f0f0f;
-  --bg-alt:       #161616;
-  --bg-hover:     #1c1c1c;
-  --text:         #cccccc;
-  --text-dim:     #999999;
-  --text-faint:   #555555;
-  --accent:       #b83232;
-  --border:       #242424;
-  --link:         #7aafc0;
-  --link-hover:   #9dcfe0;
+  --bg:           #ffffff;
+  --bg-alt:       #f0f0f0;
+  --bg-hover:     #e8e8e8;
+  --text:         #000000;
+  --text-dim:     #333333;
+  --text-faint:   #666666;
+  --accent:       #000000;
+  --border:       #cccccc;
+  --link:         #0000ee;
+  --link-hover:   #551a8b;
 }
 
 *, *::before, *::after {
@@ -79,16 +79,16 @@ header {
   font-family: 'Helvetica Neue', Arial, sans-serif;
   font-size: 0.78rem;
   font-weight: 500;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
+  letter-spacing: 0;
+  text-transform: lowercase;
   color: var(--accent);
   text-decoration: none;
 }
 
 .site-title:hover {
   color: var(--accent);
-  text-decoration: none;
-  opacity: 0.65;
+  text-decoration: underline;
+  opacity: 1;
 }
 
 .nav-links {
@@ -96,16 +96,16 @@ header {
   gap: 1.75rem;
   font-family: 'Helvetica Neue', Arial, sans-serif;
   font-size: 0.76rem;
-  letter-spacing: 0.04em;
+  letter-spacing: 0;
 }
 
 .nav-links a {
-  color: var(--text-faint);
+  color: var(--link);
 }
 
 .nav-links a:hover {
-  color: var(--text-dim);
-  text-decoration: none;
+  color: var(--link-hover);
+  text-decoration: underline;
 }
 
 /* ─── Typography ──────────────────────────── */
@@ -120,32 +120,32 @@ h1 {
 }
 
 h2 {
-  font-family: 'Helvetica Neue', Arial, sans-serif;
-  font-size: 0.66rem;
-  font-weight: 600;
-  color: var(--accent);
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  margin-top: 3rem;
-  margin-bottom: 1rem;
-  padding-bottom: 0.6rem;
-  border-bottom: 1px solid var(--border);
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: var(--text);
+  letter-spacing: 0;
+  text-transform: none;
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0;
+  border-bottom: none;
 }
 
 h3 {
-  font-family: 'Helvetica Neue', Arial, sans-serif;
-  font-size: 0.7rem;
-  font-weight: 500;
-  color: var(--text-dim);
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1rem;
+  font-weight: bold;
+  color: var(--text);
+  letter-spacing: 0;
+  text-transform: none;
   margin-top: 2rem;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.5rem;
 }
 
 p {
   font-size: 0.93rem;
-  color: #aaaaaa;
+  color: var(--text);
   max-width: 660px;
   margin-bottom: 1rem;
 }
@@ -181,11 +181,11 @@ thead {
 }
 
 thead th {
-  color: var(--text-faint);
-  font-weight: 500;
-  font-size: 0.63rem;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
+  color: var(--text);
+  font-weight: bold;
+  font-size: 0.85rem;
+  letter-spacing: 0;
+  text-transform: none;
   padding: 0.65rem 0.9rem;
   text-align: left;
   border-bottom: 1px solid var(--border);
@@ -207,8 +207,8 @@ tbody td {
 }
 
 tbody td:first-child {
-  color: var(--text-faint);
-  font-size: 0.76rem;
+  color: var(--text);
+  font-size: 0.845rem;
   font-variant-numeric: tabular-nums;
   white-space: nowrap;
 }
@@ -224,17 +224,17 @@ footer {
 .footer-container {
   font-family: 'Helvetica Neue', Arial, sans-serif;
   font-size: 0.7rem;
-  letter-spacing: 0.1em;
-  color: var(--text-faint);
+  letter-spacing: 0;
+  color: var(--text);
 }
 
 .footer-container a {
-  color: var(--text-faint);
+  color: var(--link);
 }
 
 .footer-container a:hover {
-  color: var(--text-dim);
-  text-decoration: none;
+  color: var(--link-hover);
+  text-decoration: underline;
 }
 
 /* ─── Responsive ──────────────────────────── */
