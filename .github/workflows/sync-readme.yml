@@ -1,0 +1,22 @@
+name: Sync README to index
+
+on:
+  push:
+    branches: [main]
+    paths: [README.md]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Copy README to index.md
+        run: cp README.md index.md
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet index.md || (git add index.md && git commit -m "sync: update index.md from README.md [skip ci]")
+          git push
